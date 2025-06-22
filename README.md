@@ -1,45 +1,56 @@
 # Sales Dashboard
 Sales Dashboard Excel Project
 
-## Under Construction 
-
 ![Recording of Dashboard Functions: 1 Dashboard Recording](https://github.com/user-attachments/assets/7625125c-ba5d-4867-9802-bb8e1cd2ad70)
 
+## Dashboard  
+The final dashboard can be found here: [Sales Dashboard](https://github.com/DataJane/Sales_Dashboard/blob/main/Sales%20Dashboard.xlsx)
 
-## Skills Used  
+
+## Table of Contents
+- [1. Skills Used](https://github.com/DataJane/Sales_Dashboard/edit/main/README.md#1-skills-used)
+- [2. The Data](https://github.com/DataJane/Sales_Dashboard/edit/main/README.md#2-the-data)
+- [3. Exploratory Data Analysis](https://github.com/DataJane/Sales_Dashboard/edit/main/README.md#3-exploratory-data-analysis)
+- [4. The Analysis](https://github.com/DataJane/Sales_Dashboard/edit/main/README.md#4-the-analysis)
+- [5. Dashboard Build](https://github.com/DataJane/Sales_Dashboard/edit/main/README.md#5-dashboard-build)
+- [6. Conclusion](https://github.com/DataJane/Sales_Dashboard/edit/main/README.md#6-conclusion)
+
+
+## 1. Skills Used  
 - 📊 Exploratory Data Analysis  
 - 🧮 Formulas and Functions  
 - 📚 Pivot Tables  
 - 📐 Statistics  
 - 🎛️ Creating Dashboards  
 
-## Dashboard  
-The final dashboard can be found here: 
 
-## The data:
+## 2. The data:
 I downloaded this dataset from Kaggle from: [Sales Dataset](https://www.kaggle.com/datasets/sahilislam007/sales-dataset/data)  
 The dataset is a sales dataset for a store, consisting of 1000 rows, giving information on:  
-- 🧑🏻‍🧑‍🧒 gender,  
-- 🔞 age,  
-- 🛒 product category,   
-- 📚 quantity bought,   
+- 🧑🏻‍🧑‍🧒 gender  
+- 🔞 age  
+- 🛒 product category   
+- 📚 quantity bought   
 - 💲 price per unit and   
 - 💵 total sale amount.  
 
-## Exploratory Data Analysis
+
+## 3. Exploratory Data Analysis
 I loaded the csv file into Excel and conducted EDA, using statistical analysis and Pivot charts.  
 - There are 1000 customers.  
 - The average transaction value is £456  
 - I calculated the average age for customers.  
-- The statistical average is 41.3, being slightly lower for females.   
-- The Median is 42 for both males and females in the dataset.  
+- The statistical average age is 41.3, being slightly lower for females.   
+- The Median age is 42 for both males and females in the dataset.  
 
 ![Screenshot of Average age calculation: 2 Average Age Calculation](https://github.com/user-attachments/assets/be45cb85-8cd3-48be-8ea0-85fbbbde63ba)
 **Average Age Calculation**
 
+
+## 4. The Analysis
 ### Analysis by Quantity and Value
 - When the sales were divided into product categories, clothing drove the biggest volume of sales followed by Electronics, then Beauty.  
-- Analysing by Value of sales, Electronics has the highest value by a small margin, followed by clothing, Beauty is the lowest value sales.  
+- Analysing by Value of sales, Electronics has the highest value by a small margin, followed by clothing, Beauty has the lowest value sales.  
 
 ![Charts showing Sales by Volume and Sales by Value: 3 Sales by Volume Sales by Value](https://github.com/user-attachments/assets/0300ca4b-6006-4990-b9a4-6bf164352907)
 **Charts: Sales by Volume & Sales by Value**
@@ -70,7 +81,8 @@ This shows clear distinctions with females spending more on clothing and beauty,
 
 **Total Sales Timeline** 
 
-## Dashboard
+
+## 5. Dashboard Build 
 - Each of the above analyses was plotted as a graph and placed on the dashboard for the owner of the business to use. 
 - I added slicers for Gender, Age group, and Product category.  
 - These interact with the graphs as appropriate.
@@ -99,14 +111,15 @@ For example, for the median spend:
 - A message pops up on the dashboard indicating to the user to choose single values on the slicers, then the key cards will display values.
 
 
-##Alternatives
+### Alternatives
 - I executed a version of the dashboard utilising data validation inputs for the key cards and slicers for the charts.  
-- However, this version is cleaner and means the data is unified between charts and key cards.
+- However, the final version is cleaner and means the data is unified between charts and key cards.
 
-##Conclusion
-- In this analysis, clothing had the biggest volume of sales, whereas electronics led on value.   
+
+## 6. Conclusion
+- In this analysis, clothing had the biggest volume of sales, whereas electronics led in value.   
 - Overall, females spent more than males.   
 - Females were more likely to spend on beauty and males on electronics.  
 - I’ve provided an interactive dashboard to provide insights into the data underlying the model.  
-- This has been a helpful learning tool in developing interactivity between keycards and slicers and in - consolidating learning from other courses so far.  
+- This has been a helpful learning tool in developing interactivity between keycards and slicers and in consolidating learning from other courses so far.  
 - I’m looking forward to stretching my skills further.
