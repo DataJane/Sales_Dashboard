@@ -8,12 +8,12 @@ The final dashboard can be found here: [Sales Dashboard](https://github.com/Data
 
 
 ## Table of Contents
-- [1. Skills Used](https://github.com/DataJane/Sales_Dashboard/edit/main/README.md#1-skills-used)
-- [2. The Data](https://github.com/DataJane/Sales_Dashboard/edit/main/README.md#2-the-data)
-- [3. Exploratory Data Analysis](https://github.com/DataJane/Sales_Dashboard/edit/main/README.md#3-exploratory-data-analysis)
-- [4. The Analysis](https://github.com/DataJane/Sales_Dashboard/edit/main/README.md#4-the-analysis)
-- [5. Dashboard Build](https://github.com/DataJane/Sales_Dashboard/edit/main/README.md#5-dashboard-build)
-- [6. Conclusion](https://github.com/DataJane/Sales_Dashboard/edit/main/README.md#6-conclusion)
+- [1. Skills Used](#1-skills-used)
+- [2. The Data](#2-the-data)
+- [3. Exploratory Data Analysis](#3-exploratory-data-analysis)
+- [4. The Analysis](#4-the-analysis)
+- [5. Dashboard Build](#5-dashboard-build)
+- [6. Conclusion](#6-conclusion)
 
 
 ## 1. Skills Used  
