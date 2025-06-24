@@ -123,3 +123,5 @@ For example, for the median spend:
 - I’ve provided an interactive dashboard to provide insights into the data underlying the model.  
 - This has been a helpful learning tool in developing interactivity between keycards and slicers and in consolidating learning from other courses so far.  
 - I’m looking forward to stretching my skills further.
+
+[Back to Top](#sales-dashboard)
